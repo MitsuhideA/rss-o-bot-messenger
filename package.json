@@ -1,0 +1,17 @@
+{
+  "name": "rss-o-bot-messenger",
+  "version": "1.0.0",
+  "description": "A Facebook Messenger notifier for RSS-o-Bot",
+  "main": "src/index.js",
+  "bin": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MitsuhideA",
+  "license": "MIT",
+  "dependencies": {
+    "rxjs": "^5.0.0-beta.12",
+    "debug": "^3.1.0",
+    "facebook-chat-api": "^1.6.0"
+  }
+}
